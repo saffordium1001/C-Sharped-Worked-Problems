@@ -1,5 +1,4 @@
 ﻿/*
- * Programmer: Tommie
  * Date: 01/23/2021
  * Project: Information Box Using Write() Method
  * Chapter: 01 Ex: 07
@@ -17,7 +16,7 @@ namespace ATHCh01Ex07_InfoBox
         {
             //PRINT INFO BOX WITH INFORMATION ABOUT MYSELF TO THE CONSOLE
             Write("**************************************************\n" +
-                  "*|\tName: Tommie\\\t\t\t\t *\n" +
+                  "*|\tName: ***********\\\t\t\t\t *\n" +
                   "* \tHometown: Unknown\\\t\t\t *\n" +
                   "* \tMajor: Computer Programming\\\t\t *\n" +
                   "* \tHobby: Playing Piano\\\t\t\t *\n" +

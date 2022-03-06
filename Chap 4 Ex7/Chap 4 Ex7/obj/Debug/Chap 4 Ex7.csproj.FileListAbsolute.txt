@@ -1,0 +1,8 @@
+C:\Users\thema\source\repos\Chap 4 Ex7\Chap 4 Ex7\bin\Debug\Chap 4 Ex7.exe.config
+C:\Users\thema\source\repos\Chap 4 Ex7\Chap 4 Ex7\bin\Debug\Chap 4 Ex7.exe
+C:\Users\thema\source\repos\Chap 4 Ex7\Chap 4 Ex7\bin\Debug\Chap 4 Ex7.pdb
+C:\Users\thema\source\repos\Chap 4 Ex7\Chap 4 Ex7\obj\Debug\Chap 4 Ex7.csproj.AssemblyReference.cache
+C:\Users\thema\source\repos\Chap 4 Ex7\Chap 4 Ex7\obj\Debug\Chap 4 Ex7.csproj.SuggestedBindingRedirects.cache
+C:\Users\thema\source\repos\Chap 4 Ex7\Chap 4 Ex7\obj\Debug\Chap 4 Ex7.csproj.CoreCompileInputs.cache
+C:\Users\thema\source\repos\Chap 4 Ex7\Chap 4 Ex7\obj\Debug\Chap 4 Ex7.exe
+C:\Users\thema\source\repos\Chap 4 Ex7\Chap 4 Ex7\obj\Debug\Chap 4 Ex7.pdb

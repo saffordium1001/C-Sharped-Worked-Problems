@@ -1,0 +1,27 @@
+C:\Users\Owner\Desktop\CITP180\Chapter 1 Homework\Problem 1\Problem1TKSCIPT180\bin\Debug\netcoreapp3.1\Problem1TKSCIPT180.exe
+C:\Users\Owner\Desktop\CITP180\Chapter 1 Homework\Problem 1\Problem1TKSCIPT180\bin\Debug\netcoreapp3.1\Problem1TKSCIPT180.deps.json
+C:\Users\Owner\Desktop\CITP180\Chapter 1 Homework\Problem 1\Problem1TKSCIPT180\bin\Debug\netcoreapp3.1\Problem1TKSCIPT180.runtimeconfig.json
+C:\Users\Owner\Desktop\CITP180\Chapter 1 Homework\Problem 1\Problem1TKSCIPT180\bin\Debug\netcoreapp3.1\Problem1TKSCIPT180.runtimeconfig.dev.json
+C:\Users\Owner\Desktop\CITP180\Chapter 1 Homework\Problem 1\Problem1TKSCIPT180\bin\Debug\netcoreapp3.1\Problem1TKSCIPT180.dll
+C:\Users\Owner\Desktop\CITP180\Chapter 1 Homework\Problem 1\Problem1TKSCIPT180\bin\Debug\netcoreapp3.1\Problem1TKSCIPT180.pdb
+C:\Users\Owner\Desktop\CITP180\Chapter 1 Homework\Problem 1\Problem1TKSCIPT180\obj\Debug\netcoreapp3.1\Problem1TKSCIPT180.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\CITP180\Chapter 1 Homework\Problem 1\Problem1TKSCIPT180\obj\Debug\netcoreapp3.1\Problem1TKSCIPT180.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\CITP180\Chapter 1 Homework\Problem 1\Problem1TKSCIPT180\obj\Debug\netcoreapp3.1\Problem1TKSCIPT180.AssemblyInfo.cs
+C:\Users\Owner\Desktop\CITP180\Chapter 1 Homework\Problem 1\Problem1TKSCIPT180\obj\Debug\netcoreapp3.1\Problem1TKSCIPT180.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\CITP180\Chapter 1 Homework\Problem 1\Problem1TKSCIPT180\obj\Debug\netcoreapp3.1\Problem1TKSCIPT180.dll
+C:\Users\Owner\Desktop\CITP180\Chapter 1 Homework\Problem 1\Problem1TKSCIPT180\obj\Debug\netcoreapp3.1\Problem1TKSCIPT180.pdb
+C:\Users\Owner\Desktop\CITP180\Chapter 1 Homework\Problem 1\Problem1TKSCIPT180\obj\Debug\netcoreapp3.1\Problem1TKSCIPT180.genruntimeconfig.cache
+C:\Users\Owner\Desktop\CITP180\Chapter 1 Homework\Problem 1\Problem1TKSCIPT180\obj\Debug\netcoreapp3.1\Problem1TKSCIPT180.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\CITP180\Chapter 1 Homework\Problem1TKSCIPT180\bin\Debug\netcoreapp3.1\Problem1TKSCIPT180.exe
+C:\Users\Owner\Desktop\CITP180\Chapter 1 Homework\Problem1TKSCIPT180\bin\Debug\netcoreapp3.1\Problem1TKSCIPT180.deps.json
+C:\Users\Owner\Desktop\CITP180\Chapter 1 Homework\Problem1TKSCIPT180\bin\Debug\netcoreapp3.1\Problem1TKSCIPT180.runtimeconfig.json
+C:\Users\Owner\Desktop\CITP180\Chapter 1 Homework\Problem1TKSCIPT180\bin\Debug\netcoreapp3.1\Problem1TKSCIPT180.runtimeconfig.dev.json
+C:\Users\Owner\Desktop\CITP180\Chapter 1 Homework\Problem1TKSCIPT180\bin\Debug\netcoreapp3.1\Problem1TKSCIPT180.dll
+C:\Users\Owner\Desktop\CITP180\Chapter 1 Homework\Problem1TKSCIPT180\bin\Debug\netcoreapp3.1\Problem1TKSCIPT180.pdb
+C:\Users\Owner\Desktop\CITP180\Chapter 1 Homework\Problem1TKSCIPT180\obj\Debug\netcoreapp3.1\Problem1TKSCIPT180.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\CITP180\Chapter 1 Homework\Problem1TKSCIPT180\obj\Debug\netcoreapp3.1\Problem1TKSCIPT180.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\CITP180\Chapter 1 Homework\Problem1TKSCIPT180\obj\Debug\netcoreapp3.1\Problem1TKSCIPT180.AssemblyInfo.cs
+C:\Users\Owner\Desktop\CITP180\Chapter 1 Homework\Problem1TKSCIPT180\obj\Debug\netcoreapp3.1\Problem1TKSCIPT180.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\CITP180\Chapter 1 Homework\Problem1TKSCIPT180\obj\Debug\netcoreapp3.1\Problem1TKSCIPT180.dll
+C:\Users\Owner\Desktop\CITP180\Chapter 1 Homework\Problem1TKSCIPT180\obj\Debug\netcoreapp3.1\Problem1TKSCIPT180.pdb
+C:\Users\Owner\Desktop\CITP180\Chapter 1 Homework\Problem1TKSCIPT180\obj\Debug\netcoreapp3.1\Problem1TKSCIPT180.genruntimeconfig.cache

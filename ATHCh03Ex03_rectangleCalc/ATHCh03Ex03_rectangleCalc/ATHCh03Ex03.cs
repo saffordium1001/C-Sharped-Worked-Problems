@@ -1,5 +1,4 @@
 ﻿/*
- * Programmer: Tommie
  * Date: 2/13/2021
  * Project: Rectangle Calculation
  * Ch: 03 Ex: 03

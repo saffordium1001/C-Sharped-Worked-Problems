@@ -1,5 +1,4 @@
-﻿/*
- * Programmer: Tommie
+/*
  * Date: 01/23/2021
  * Project: Hello World 
  * Chapter: 01 Ex: 01

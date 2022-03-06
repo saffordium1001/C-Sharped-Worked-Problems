@@ -1,0 +1,14 @@
+C:\Users\Owner\Desktop\CITP180\Week4 Group Project\BMICalculator\bin\Debug\netcoreapp3.1\BMICalculator.exe
+C:\Users\Owner\Desktop\CITP180\Week4 Group Project\BMICalculator\bin\Debug\netcoreapp3.1\BMICalculator.deps.json
+C:\Users\Owner\Desktop\CITP180\Week4 Group Project\BMICalculator\bin\Debug\netcoreapp3.1\BMICalculator.runtimeconfig.json
+C:\Users\Owner\Desktop\CITP180\Week4 Group Project\BMICalculator\bin\Debug\netcoreapp3.1\BMICalculator.runtimeconfig.dev.json
+C:\Users\Owner\Desktop\CITP180\Week4 Group Project\BMICalculator\bin\Debug\netcoreapp3.1\BMICalculator.dll
+C:\Users\Owner\Desktop\CITP180\Week4 Group Project\BMICalculator\bin\Debug\netcoreapp3.1\BMICalculator.pdb
+C:\Users\Owner\Desktop\CITP180\Week4 Group Project\BMICalculator\obj\Debug\netcoreapp3.1\BMICalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\CITP180\Week4 Group Project\BMICalculator\obj\Debug\netcoreapp3.1\BMICalculator.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\CITP180\Week4 Group Project\BMICalculator\obj\Debug\netcoreapp3.1\BMICalculator.AssemblyInfo.cs
+C:\Users\Owner\Desktop\CITP180\Week4 Group Project\BMICalculator\obj\Debug\netcoreapp3.1\BMICalculator.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\CITP180\Week4 Group Project\BMICalculator\obj\Debug\netcoreapp3.1\BMICalculator.dll
+C:\Users\Owner\Desktop\CITP180\Week4 Group Project\BMICalculator\obj\Debug\netcoreapp3.1\BMICalculator.pdb
+C:\Users\Owner\Desktop\CITP180\Week4 Group Project\BMICalculator\obj\Debug\netcoreapp3.1\BMICalculator.genruntimeconfig.cache
+C:\Users\Owner\Desktop\CITP180\Week4 Group Project\BMICalculator\obj\Debug\netcoreapp3.1\BMICalculator.csproj.AssemblyReference.cache

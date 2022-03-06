@@ -1,7 +1,6 @@
 ﻿/*
  * Programmer: Tommie
  * Date: 01/23/2021
- * Project: American Flag Output
  * Chapter: 01 Ex: 05
  */
 

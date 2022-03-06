@@ -1,5 +1,4 @@
 ﻿/*
- * Programmer: Tommie 
  * Date: 02/13/2021
  * Project: Int of Seconds = Hours, Minutes, & Seconds
  * Ch: 03 Ex: 04

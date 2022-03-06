@@ -1,5 +1,4 @@
 ﻿/*
- * Programmer: Tommie
  * Date: 01/23/2021
  * Project: X Print Output
  * Chapter: 01 Ex: 03

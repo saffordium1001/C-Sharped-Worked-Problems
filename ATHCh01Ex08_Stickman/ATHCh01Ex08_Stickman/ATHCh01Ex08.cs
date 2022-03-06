@@ -1,5 +1,4 @@
 ﻿/*
- * Programmer: Tommie
  * Date: 01/23/2021
  * Project: Creating a Stickman
  * Chapter: 01 Ex: 08

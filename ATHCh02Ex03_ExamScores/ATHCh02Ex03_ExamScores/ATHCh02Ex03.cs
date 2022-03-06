@@ -1,5 +1,4 @@
 ﻿/*
- * Programmer: Tommie
  * Date: 01/31/2021
  * Project: Exam Scores
  * Chapter: 02 Ex: 03

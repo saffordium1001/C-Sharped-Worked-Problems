@@ -1,0 +1,14 @@
+C:\Users\Owner\Desktop\CITP180\Week2 Group Project\WeightedAverage\bin\Debug\netcoreapp3.1\WeightedAverage.exe
+C:\Users\Owner\Desktop\CITP180\Week2 Group Project\WeightedAverage\bin\Debug\netcoreapp3.1\WeightedAverage.deps.json
+C:\Users\Owner\Desktop\CITP180\Week2 Group Project\WeightedAverage\bin\Debug\netcoreapp3.1\WeightedAverage.runtimeconfig.json
+C:\Users\Owner\Desktop\CITP180\Week2 Group Project\WeightedAverage\bin\Debug\netcoreapp3.1\WeightedAverage.runtimeconfig.dev.json
+C:\Users\Owner\Desktop\CITP180\Week2 Group Project\WeightedAverage\bin\Debug\netcoreapp3.1\WeightedAverage.dll
+C:\Users\Owner\Desktop\CITP180\Week2 Group Project\WeightedAverage\bin\Debug\netcoreapp3.1\WeightedAverage.pdb
+C:\Users\Owner\Desktop\CITP180\Week2 Group Project\WeightedAverage\obj\Debug\netcoreapp3.1\WeightedAverage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\CITP180\Week2 Group Project\WeightedAverage\obj\Debug\netcoreapp3.1\WeightedAverage.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\CITP180\Week2 Group Project\WeightedAverage\obj\Debug\netcoreapp3.1\WeightedAverage.AssemblyInfo.cs
+C:\Users\Owner\Desktop\CITP180\Week2 Group Project\WeightedAverage\obj\Debug\netcoreapp3.1\WeightedAverage.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\CITP180\Week2 Group Project\WeightedAverage\obj\Debug\netcoreapp3.1\WeightedAverage.dll
+C:\Users\Owner\Desktop\CITP180\Week2 Group Project\WeightedAverage\obj\Debug\netcoreapp3.1\WeightedAverage.pdb
+C:\Users\Owner\Desktop\CITP180\Week2 Group Project\WeightedAverage\obj\Debug\netcoreapp3.1\WeightedAverage.genruntimeconfig.cache
+C:\Users\Owner\Desktop\CITP180\Week2 Group Project\WeightedAverage\obj\Debug\netcoreapp3.1\WeightedAverage.csproj.AssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\Owner\Desktop\CITP180\Week3 Group Project\GranolaBarSales\bin\Debug\netcoreapp3.1\GranolaBarSales.exe
+C:\Users\Owner\Desktop\CITP180\Week3 Group Project\GranolaBarSales\bin\Debug\netcoreapp3.1\GranolaBarSales.deps.json
+C:\Users\Owner\Desktop\CITP180\Week3 Group Project\GranolaBarSales\bin\Debug\netcoreapp3.1\GranolaBarSales.runtimeconfig.json
+C:\Users\Owner\Desktop\CITP180\Week3 Group Project\GranolaBarSales\bin\Debug\netcoreapp3.1\GranolaBarSales.runtimeconfig.dev.json
+C:\Users\Owner\Desktop\CITP180\Week3 Group Project\GranolaBarSales\bin\Debug\netcoreapp3.1\GranolaBarSales.dll
+C:\Users\Owner\Desktop\CITP180\Week3 Group Project\GranolaBarSales\bin\Debug\netcoreapp3.1\GranolaBarSales.pdb
+C:\Users\Owner\Desktop\CITP180\Week3 Group Project\GranolaBarSales\obj\Debug\netcoreapp3.1\GranolaBarSales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\CITP180\Week3 Group Project\GranolaBarSales\obj\Debug\netcoreapp3.1\GranolaBarSales.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\CITP180\Week3 Group Project\GranolaBarSales\obj\Debug\netcoreapp3.1\GranolaBarSales.AssemblyInfo.cs
+C:\Users\Owner\Desktop\CITP180\Week3 Group Project\GranolaBarSales\obj\Debug\netcoreapp3.1\GranolaBarSales.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\CITP180\Week3 Group Project\GranolaBarSales\obj\Debug\netcoreapp3.1\GranolaBarSales.dll
+C:\Users\Owner\Desktop\CITP180\Week3 Group Project\GranolaBarSales\obj\Debug\netcoreapp3.1\GranolaBarSales.pdb
+C:\Users\Owner\Desktop\CITP180\Week3 Group Project\GranolaBarSales\obj\Debug\netcoreapp3.1\GranolaBarSales.genruntimeconfig.cache

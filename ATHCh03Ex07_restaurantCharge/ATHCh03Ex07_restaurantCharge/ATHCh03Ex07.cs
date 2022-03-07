@@ -1,5 +1,4 @@
 ﻿/*
- * Promgrammer: Tommie
  * Project: 15% & 20% Restaurant Charge
  * Ch: 03 Ex:07
  */

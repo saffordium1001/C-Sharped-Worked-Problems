@@ -1,5 +1,4 @@
 ﻿/*
- * Programmer: Tommie
  * Date: 2/19/2021
  * Project: Total Profit From Granola Bar Sales
  * Ch:03 Ex:08

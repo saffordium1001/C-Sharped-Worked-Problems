@@ -1,5 +1,4 @@
 ﻿/*
- * Programmer: Tommie
  * Date: 03/02/2021
  * Project: Return Date
  * Ch: 04 Ex: 01

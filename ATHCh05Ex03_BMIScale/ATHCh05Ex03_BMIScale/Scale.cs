@@ -1,5 +1,4 @@
 ﻿/*
- * Programmer: Tommie
  * Date: 03/28/2021
  * File: Scale.cs
  * Instance Variables : Weight Pounds/Ounces | Height Feet/Inches | Weight Kilograms | Height Centimeters

@@ -1,5 +1,4 @@
 ﻿/*
- * Programmer: Tommie
  * Date: 03/25/2021
  * Project: BMI Scale 
  * Ch: 05 Ex: 03

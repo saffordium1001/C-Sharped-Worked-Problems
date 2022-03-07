@@ -1,6 +1,5 @@
 ﻿/*
  * Promgrammer: Tommie
- * Date: 02/14/2021
  * Project: 15% & 20% Restaurant Charge
  * Ch: 03 Ex:07
  */

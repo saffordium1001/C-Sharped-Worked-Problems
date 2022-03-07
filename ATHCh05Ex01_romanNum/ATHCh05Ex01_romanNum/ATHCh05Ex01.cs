@@ -1,5 +1,4 @@
 ﻿/*
- * Programmer: Aaron Hearne
  * Date: 03/24/2021
  * Project: Roman Num Values
  * Ch: 05 Ex: 01

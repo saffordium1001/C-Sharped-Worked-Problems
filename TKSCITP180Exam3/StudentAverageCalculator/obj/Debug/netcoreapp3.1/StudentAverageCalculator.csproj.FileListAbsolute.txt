@@ -1,0 +1,13 @@
+C:\Users\Owner\Desktop\CITP180\TKSCITP180Exam3\StudentAverageCalculator\bin\Debug\netcoreapp3.1\StudentAverageCalculator.exe
+C:\Users\Owner\Desktop\CITP180\TKSCITP180Exam3\StudentAverageCalculator\bin\Debug\netcoreapp3.1\StudentAverageCalculator.deps.json
+C:\Users\Owner\Desktop\CITP180\TKSCITP180Exam3\StudentAverageCalculator\bin\Debug\netcoreapp3.1\StudentAverageCalculator.runtimeconfig.json
+C:\Users\Owner\Desktop\CITP180\TKSCITP180Exam3\StudentAverageCalculator\bin\Debug\netcoreapp3.1\StudentAverageCalculator.runtimeconfig.dev.json
+C:\Users\Owner\Desktop\CITP180\TKSCITP180Exam3\StudentAverageCalculator\bin\Debug\netcoreapp3.1\StudentAverageCalculator.dll
+C:\Users\Owner\Desktop\CITP180\TKSCITP180Exam3\StudentAverageCalculator\bin\Debug\netcoreapp3.1\StudentAverageCalculator.pdb
+C:\Users\Owner\Desktop\CITP180\TKSCITP180Exam3\StudentAverageCalculator\obj\Debug\netcoreapp3.1\StudentAverageCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\CITP180\TKSCITP180Exam3\StudentAverageCalculator\obj\Debug\netcoreapp3.1\StudentAverageCalculator.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\CITP180\TKSCITP180Exam3\StudentAverageCalculator\obj\Debug\netcoreapp3.1\StudentAverageCalculator.AssemblyInfo.cs
+C:\Users\Owner\Desktop\CITP180\TKSCITP180Exam3\StudentAverageCalculator\obj\Debug\netcoreapp3.1\StudentAverageCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\CITP180\TKSCITP180Exam3\StudentAverageCalculator\obj\Debug\netcoreapp3.1\StudentAverageCalculator.dll
+C:\Users\Owner\Desktop\CITP180\TKSCITP180Exam3\StudentAverageCalculator\obj\Debug\netcoreapp3.1\StudentAverageCalculator.pdb
+C:\Users\Owner\Desktop\CITP180\TKSCITP180Exam3\StudentAverageCalculator\obj\Debug\netcoreapp3.1\StudentAverageCalculator.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DrawRectangle/1.0.0": {
+        "runtime": {
+          "DrawRectangle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DrawRectangle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

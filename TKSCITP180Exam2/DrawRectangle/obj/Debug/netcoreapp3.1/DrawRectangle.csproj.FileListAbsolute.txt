@@ -1,0 +1,13 @@
+C:\Users\Owner\Desktop\CITP180\TKSCITP180Exam2\DrawRectangle\bin\Debug\netcoreapp3.1\DrawRectangle.exe
+C:\Users\Owner\Desktop\CITP180\TKSCITP180Exam2\DrawRectangle\bin\Debug\netcoreapp3.1\DrawRectangle.deps.json
+C:\Users\Owner\Desktop\CITP180\TKSCITP180Exam2\DrawRectangle\bin\Debug\netcoreapp3.1\DrawRectangle.runtimeconfig.json
+C:\Users\Owner\Desktop\CITP180\TKSCITP180Exam2\DrawRectangle\bin\Debug\netcoreapp3.1\DrawRectangle.runtimeconfig.dev.json
+C:\Users\Owner\Desktop\CITP180\TKSCITP180Exam2\DrawRectangle\bin\Debug\netcoreapp3.1\DrawRectangle.dll
+C:\Users\Owner\Desktop\CITP180\TKSCITP180Exam2\DrawRectangle\bin\Debug\netcoreapp3.1\DrawRectangle.pdb
+C:\Users\Owner\Desktop\CITP180\TKSCITP180Exam2\DrawRectangle\obj\Debug\netcoreapp3.1\DrawRectangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\CITP180\TKSCITP180Exam2\DrawRectangle\obj\Debug\netcoreapp3.1\DrawRectangle.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\CITP180\TKSCITP180Exam2\DrawRectangle\obj\Debug\netcoreapp3.1\DrawRectangle.AssemblyInfo.cs
+C:\Users\Owner\Desktop\CITP180\TKSCITP180Exam2\DrawRectangle\obj\Debug\netcoreapp3.1\DrawRectangle.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\CITP180\TKSCITP180Exam2\DrawRectangle\obj\Debug\netcoreapp3.1\DrawRectangle.dll
+C:\Users\Owner\Desktop\CITP180\TKSCITP180Exam2\DrawRectangle\obj\Debug\netcoreapp3.1\DrawRectangle.pdb
+C:\Users\Owner\Desktop\CITP180\TKSCITP180Exam2\DrawRectangle\obj\Debug\netcoreapp3.1\DrawRectangle.genruntimeconfig.cache
